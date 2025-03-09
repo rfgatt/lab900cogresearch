@@ -1,7 +1,7 @@
 # 📌 Projeto de Pesquisa Cognitiva com IA no Azure
 
 ## 📖 Sobre o Projeto
-Este projeto faz parte do curso **AI Fundamentals da Microsoft** e tem como objetivo explorar o uso da **Pesquisa Cognitiva do Azure** para indexação e recuperação inteligente de informações em documentos.
+Este projeto tem como objetivo explorar o uso da **Pesquisa Cognitiva do Azure** para indexação e recuperação inteligente de informações em documentos.
 
 ## 🛠️ Passo a Passo para Configuração da Pesquisa Cognitiva
 
